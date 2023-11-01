@@ -7,10 +7,8 @@ const Logout = () => {
 
   const {state, dispatch} = useContext(UserContext);
 
-// CLICKED ON LOGOUT -> CALL FUNCTION WHICH DELETES CURRENT COOKIES -> IF COOKIES NOT EXPIRED
-// TO FETCH LOGOUT FUNCTIONALITY FROM SERVER
-// CAN USE -> ASYNC AWAIT , PROMISES ,  AXIOS 
-// USING PROMISES
+// CLICKED ON LOGOUT -> call thefunction which delet current cookies
+ 
 
 const history = useHistory();
 

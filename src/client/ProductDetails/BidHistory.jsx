@@ -1,3 +1,5 @@
+//Data fetch for showing bid history to user like name,email,bid amount and the date also
+
 import React from 'react'
 
 const BidHistory = ({bids}) => {

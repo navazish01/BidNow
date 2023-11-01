@@ -5,7 +5,7 @@ import MetaData from '../MetaData/MetaData';
 const Contact = () => {
 
 
-  // CONTACT PAGE START
+  
 
   const [userData, setUserData] = useState({ name: "", email: "", subject: "", message: "" });
 
@@ -87,7 +87,7 @@ const Contact = () => {
   }
 
 
-  // CONTACT PAGE ENDS
+  // form of contact
 
 
 
